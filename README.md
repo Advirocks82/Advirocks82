@@ -1,10 +1,19 @@
-<h1 align="center">Hi, I'm Aditya Verma 👋</h1>
-<h3 align="center">Full-Stack (MERN) Developer | Building AI-integrated products with real Fintech/NBFC domain depth</h3>
+<h1 align="center">Hi there, I'm Aditya Verma 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=advirocks82&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/aditya-verma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aditya.verma136893@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+(MERN)+Developer;Building+AI-Integrated+Products;Fintech+%2F+NBFC+Domain+Specialist;Always+Shipping.+Always+Learning." alt="Typing SVG" />
+</p>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" alt="coding gif" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=advirocks82&label=Profile%20views&color=58a6ff&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/aditya-verma-09154b267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://adityavermaa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://linktr.ee/aditya.verma136893" target="_blank"><img src="https://img.shields.io/badge/-Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white" /></a>
+  <a href="mailto:aditya.verma136893@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -13,14 +22,21 @@
 
 I'm a full-stack developer working across the **MERN stack**, with production experience in fintech/NBFC systems — loan lifecycle modules, RBAC/UAM configuration, and instrument management — plus hands-on work shipping AI-integrated applications end to end.
 
+```yaml
+aditya:
+  role: "Full-Stack (MERN) Developer"
+  domain_expertise: ["Loan Lifecycle Systems", "RBAC/UAM", "Instrument Management", "Maker-Checker Workflows"]
+  currently_building: ["Maker-Authorizer User Management Module", "Dynamic Asset Form (drawer-based, API-driven)"]
+  currently_learning: ["AWS deployment pipelines", "System design for AI-augmented apps"]
+  ai_era_focus: "Architecting products around LLMs, not just prompting them"
+  open_to: "Remote Full-Stack / MERN Developer roles"
+```
+
 - 🏦 **Domain depth:** Loan lifecycle modules, RBAC/UAM, instrument management, maker-checker approval workflows
-- 🤖 **AI-era builder:** Shipped a full-stack AI code reviewer integrating the Gemini API for real-time code analysis — not just prompting, but architecting the product around an LLM
-- ☁️ **Cloud & deployment:** Hands-on with AWS, plus production deployments on Render and Netlify (API routing, environment configs, SPA redirect rules, deploy fixes)
-- 🔭 **Currently building:** A maker-authorizer user management module (tab navigation, approvals, unsaved-changes handling) and a drawer-based dynamic asset form with API-driven field population
-- 🌱 **Currently sharpening:** Backend architecture patterns, AWS deployment pipelines, and system design for AI-augmented full-stack apps
+- 🤖 **AI-era builder:** Shipped a full-stack AI code reviewer integrating the Gemini API for real-time code analysis
+- ☁️ **Cloud & deployment:** Hands-on with AWS, plus production deployments on Render and Netlify
 - 💬 **Ask me about:** MERN development, AI/LLM integration into real products, or fintech frontend architecture
 - 📫 **Reach me:** aditya.verma136893@gmail.com
-- 🔍 **Open to:** Remote Full-Stack / MERN Developer roles
 
 ---
 
@@ -62,23 +78,35 @@ I'm a full-stack developer working across the **MERN stack**, with production ex
 ### 🔨 Featured Projects
 
 **[CodeWhisper-AI](https://github.com/Advirocks82/Code-Whisper-ai)**
-Full-stack AI code reviewer — React + Vite frontend, Node.js + Express backend, integrated with the Gemini API for automated code analysis. Deployed as a monorepo: frontend on Netlify, backend on Render, with real production fixes (SPA redirect rules, API URL configuration, secure key handling).
+Full-stack AI code reviewer — React + Vite frontend, Node.js + Express backend, integrated with the Gemini API for automated code analysis. Deployed as a monorepo: frontend on Netlify, backend on Render.
 
 **[React Authentication App](https://github.com/Advirocks82/react_authentication_app)**
 End-to-end authentication system — signup/login flows, protected routes, and token handling patterns used in production-grade apps.
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=advirocks82&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies" />
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advirocks82&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="advirocks82 top languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=advirocks82&show_icons=true&locale=en&theme=tokyonight" alt="advirocks82 stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advirocks82&show_icons=true&locale=en&layout=compact&theme=radical" alt="advirocks82 top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=advirocks82&show_icons=true&locale=en&theme=radical" alt="advirocks82 stats" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=advirocks82&theme=tokyonight" alt="advirocks82 streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=advirocks82&theme=radical" alt="advirocks82 streak" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=advirocks82&theme=react-dark" alt="contribution graph" />
 </p>
 
 ---
 
-<p align="center"><i>Open to remote Full-Stack / MERN Developer roles — let's connect.</i></p>
+<p align="center"><i>💼 Open to remote Full-Stack / MERN Developer roles — let's build something great together.</i></p>
