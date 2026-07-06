@@ -1,42 +1,84 @@
-[![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)]
-<h1 align="center">Hi 👋, I'm Aditya Verma</h1>
-<h3 align="center">A passionate FullStack Developer from India, crafting seamless user experiences with modern tech.</h3>
+<h1 align="center">Hi, I'm Aditya Verma 👋</h1>
+<h3 align="center">Full-Stack (MERN) Developer | Building AI-integrated products with real Fintech/NBFC domain depth</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=advirocks82&label=Profile%20views&color=0e75b6&style=flat" alt="advirocks82" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@aditya_verma_82" target="blank"><img src="https://img.shields.io/twitter/follow/@aditya_verma_82?logo=twitter&style=for-the-badge" alt="@aditya_verma_82" /></a> </p>
-
-- 🔭 I’m currently working on **User authentication system**
-
-- 🌱 I’m currently learning **React Native, Java, Mern Stack**
-
-- 👯 I’m looking to collaborate on **E-Commerce Website**
-
-- 👨‍💻 All of my projects are available at [https://adityavermaa.netlify.app/](https://adityavermaa.netlify.app/)
-
-- 💬 Ask me about **MERN, Full-Stack development**
-
-- 📫 How to reach me **aditya.verma136893@gmail.com**
-
-- 📄 Know about my experiences [https://shorturl.at/yXm5G](https://shorturl.at/yXm5G)
-
-- ⚡ Fun fact **I think, I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@aditya_verma_82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aditya_verma_82" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya verma" height="30" width="40" /></a>
-<a href="https://instagram.com/adi_tya_8229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adi_tya_8229" height="30" width="40" /></a>
-<a href="https://medium.com/@aditya verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aditya verma" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=advirocks82&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://linkedin.com/in/aditya-verma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aditya.verma136893@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advirocks82&show_icons=true&locale=en&layout=compact" alt="advirocks82" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=advirocks82&show_icons=true&locale=en" alt="advirocks82" /></p>
+I'm a full-stack developer working across the **MERN stack**, with production experience in fintech/NBFC systems — loan lifecycle modules, RBAC/UAM configuration, and instrument management — plus hands-on work shipping AI-integrated applications end to end.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=advirocks82&" alt="advirocks82" /></p>
+- 🏦 **Domain depth:** Loan lifecycle modules, RBAC/UAM, instrument management, maker-checker approval workflows
+- 🤖 **AI-era builder:** Shipped a full-stack AI code reviewer integrating the Gemini API for real-time code analysis — not just prompting, but architecting the product around an LLM
+- ☁️ **Cloud & deployment:** Hands-on with AWS, plus production deployments on Render and Netlify (API routing, environment configs, SPA redirect rules, deploy fixes)
+- 🔭 **Currently building:** A maker-authorizer user management module (tab navigation, approvals, unsaved-changes handling) and a drawer-based dynamic asset form with API-driven field population
+- 🌱 **Currently sharpening:** Backend architecture patterns, AWS deployment pipelines, and system design for AI-augmented full-stack apps
+- 💬 **Ask me about:** MERN development, AI/LLM integration into real products, or fintech frontend architecture
+- 📫 **Reach me:** aditya.verma136893@gmail.com
+- 🔍 **Open to:** Remote Full-Stack / MERN Developer roles
+
+---
+
+### 🧰 Tech Stack
+
+**Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
+</p>
+
+**Backend & Data**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
+</p>
+
+**Cloud, AI & Tooling**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### 🔨 Featured Projects
+
+**[CodeWhisper-AI](https://github.com/Advirocks82/Code-Whisper-ai)**
+Full-stack AI code reviewer — React + Vite frontend, Node.js + Express backend, integrated with the Gemini API for automated code analysis. Deployed as a monorepo: frontend on Netlify, backend on Render, with real production fixes (SPA redirect rules, API URL configuration, secure key handling).
+
+**[React Authentication App](https://github.com/Advirocks82/react_authentication_app)**
+End-to-end authentication system — signup/login flows, protected routes, and token handling patterns used in production-grade apps.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advirocks82&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="advirocks82 top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=advirocks82&show_icons=true&locale=en&theme=tokyonight" alt="advirocks82 stats" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=advirocks82&theme=tokyonight" alt="advirocks82 streak" />
+</p>
+
+---
+
+<p align="center"><i>Open to remote Full-Stack / MERN Developer roles — let's connect.</i></p>
